@@ -3,6 +3,10 @@
   <img src="./assets/lavender-banner.svg" alt="Arnav Pawar — Aspiring Software Engineer and AI Enthusiast" width="100%">
 </p>
 
+<p align="center">
+  <img src="./assets/lavender-avatar.svg" alt="Lavender AP developer avatar — upload this image as your GitHub profile picture" width="96">
+</p>
+
 <h1 align="center">Hey, I'm Arnav Pawar 💜</h1>
 <h3 align="center">Student Developer · Aspiring Software Engineer · AI Enthusiast</h3>
 
