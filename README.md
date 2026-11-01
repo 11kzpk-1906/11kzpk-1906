@@ -1,66 +1,89 @@
-<!-- Lavender developer profile — Arnav Pawar -->
+<!-- Arnav Pawar | GitHub profile README -->
+
 <p align="center">
-  <img src="./assets/lavender-banner.svg" alt="Arnav Pawar — Aspiring Software Engineer and AI Enthusiast" width="100%">
+  <img src="./assets/lavender-banner.svg" alt="Arnav Pawar — Student Developer, Software Engineering and AI" width="100%">
+</p>
+
+<h1 align="center">Hey, I'm Arnav Pawar 👋</h1>
+<p align="center">
+  <strong>Student Developer · Aspiring Software Engineer · AI Enthusiast</strong>
 </p>
 
 <p align="center">
-  <img src="./assets/lavender-avatar.svg" alt="Lavender AP developer avatar — upload this image as your GitHub profile picture" width="96">
+  I learn by building, experiment with ideas, and turn curiosity into projects.
 </p>
 
-<h1 align="center">Hey, I'm Arnav Pawar 💜</h1>
-<h3 align="center">Student Developer · Aspiring Software Engineer · AI Enthusiast</h3>
-
 <p align="center">
-  Curious by nature. Creative by design. Always learning, always building.
+  <a href="https://github.com/11kzpk-1906">
+    <img src="https://img.shields.io/badge/GitHub-11kzpk--1906-242038?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Engineering-9B87F5?style=for-the-badge" alt="AI and software engineering">
+  <img src="https://img.shields.io/badge/Theme-Lavender-CCB8FF?style=for-the-badge" alt="Lavender theme">
 </p>
 
 ---
 
-## ✨ About Me
+## 🧑‍💻 About Me
 
-I'm a student developer who loves exploring how technology works and turning ideas into useful digital experiences. I'm especially interested in artificial intelligence, software engineering, web development, and problem-solving.
+I'm a student developer interested in **artificial intelligence, software engineering, and building useful applications**.
 
-I learn best by building: experimenting with ideas, debugging what breaks, and improving each version.
+I enjoy exploring how systems work, designing clean interfaces, solving problems, and learning through hands-on projects. I'm still growing my skills, and every project is a chance to get better.
 
-## 🚀 What I'm Building
+## 🚀 What I'm Working On
 
-- 🤖 **ForgeAI** — an AI-powered software engineering assistant concept.
-- 🌌 **Nova AI** — a Windows-first personal AI assistant experiment.
-- 📚 **Eduverse** — an educational software project.
-- 🌐 **Rajmudra Enterprises** — a website for an IT infrastructure and security solutions business.
-- 🧠 **Personal Agent** — experiments with AI agents and useful workflows.
+| Project | What it is |
+|---|---|
+| 🤖 **ForgeAI** | An AI-powered assistant focused on software engineering workflows. |
+| 🌌 **Nova AI** | A Windows-first personal AI assistant experiment. |
+| 📚 **Eduverse** | An educational software project. |
+| 🌐 **Rajmudra Enterprises** | A website for an IT infrastructure and security solutions business. |
+| 🧠 **Personal Agent** | Experiments with AI agents and helpful workflows. |
 
-## 🛠️ Technologies I Explore
+## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-C4B5FD?style=for-the-badge&logo=python&logoColor=241735)
-![JavaScript](https://img.shields.io/badge/JavaScript-DCCBFF?style=for-the-badge&logo=javascript&logoColor=241735)
-![TypeScript](https://img.shields.io/badge/TypeScript-BFA3F5?style=for-the-badge&logo=typescript&logoColor=241735)
-![HTML5](https://img.shields.io/badge/HTML5-E9D5FF?style=for-the-badge&logo=html5&logoColor=241735)
-![CSS3](https://img.shields.io/badge/CSS3-C4B5FD?style=for-the-badge&logo=css3&logoColor=241735)
-![React](https://img.shields.io/badge/React-D8C5FF?style=for-the-badge&logo=react&logoColor=241735)
-![FastAPI](https://img.shields.io/badge/FastAPI-E9D5FF?style=for-the-badge&logo=fastapi&logoColor=241735)
-![Git](https://img.shields.io/badge/Git-C4B5FD?style=for-the-badge&logo=git&logoColor=241735)
-![GitHub](https://img.shields.io/badge/GitHub-241735?style=for-the-badge&logo=github&logoColor=E9D5FF)
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/Python-9B87F5?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9B87F5?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-9B87F5?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-9B87F5?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9B87F5?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 GitHub Snapshot
+**Frameworks & Tools**
+<br>
+![React](https://img.shields.io/badge/React-6F5AA8?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-6F5AA8?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6F5AA8?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6F5AA8?style=for-the-badge&logo=github&logoColor=white)
+
+## 📈 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=11kzpk-1906&show_icons=true&hide_border=true&bg_color=171126&title_color=DCCBFF&text_color=EDE5F8&icon_color=C4B5FD" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11kzpk-1906&layout=compact&hide_border=true&bg_color=171126&title_color=DCCBFF&text_color=EDE5F8" alt="Most used languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=11kzpk-1906&show_icons=true&hide_border=true&rank_icon=github&bg_color=171126&title_color=DCCBFF&text_color=EDE5F8&icon_color=C4B5FD" alt="Arnav's GitHub statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11kzpk-1906&layout=compact&hide_border=true&langs_count=8&bg_color=171126&title_color=DCCBFF&text_color=EDE5F8" alt="Most used programming languages">
 </p>
 
-## 🌱 Current Focus
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=11kzpk-1906&hide_border=true&background=171126&ring=C4B5FD&fire=DCCBFF&currStreakLabel=DCCBFF&sideLabels=EDE5F8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA0BC" alt="GitHub contribution streak">
+</p>
 
-- Strengthening programming and software engineering fundamentals
-- Building AI-powered applications and web projects
-- Improving UI design, accessibility, and responsive development
-- Learning through real projects and consistent iteration
+## 🌱 Currently Learning
 
-## 💭 My Mindset
+- Strengthening programming and computer science fundamentals
+- Building AI-powered applications and agent workflows
+- Developing full-stack projects with modern tools
+- Improving UI design, accessibility, and responsive layouts
 
-> Build it. Break it. Learn from it. Build it better.
+## 💡 My Approach
+
+> Build it. Break it. Understand it. Build it better.
 
 <p align="center">
-  <a href="https://11kzpk-1906.github.io/Personal-Portfolio/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-C4B5FD?style=for-the-badge&logo=githubpages&logoColor=241735" alt="Explore my portfolio"></a>
-  <a href="https://github.com/11kzpk-1906?tab=repositories"><img src="https://img.shields.io/badge/My%20Repositories-DCCBFF?style=for-the-badge&logo=github&logoColor=241735" alt="My repositories"></a>
+  <a href="https://github.com/11kzpk-1906?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-9B87F5?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by! Have a great day. ✨</sub>
 </p>
