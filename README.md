@@ -88,12 +88,10 @@ profile = {
 ### 05 / GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=11kzpk-1906&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D0B12&title_color=CDBBFA&text_color=E8E1F2&icon_color=A994E8" alt="GitHub stats">
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11kzpk-1906&layout=compact&hide_border=true&langs_count=6&bg_color=0D0B12&title_color=CDBBFA&text_color=E8E1F2" alt="Most used languages">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=11kzpk-1906&hide_border=true&background=0D0B12&ring=A994E8&fire=CDBBFA&currStreakLabel=CDBBFA&sideLabels=E8E1F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=958BA6" alt="GitHub contribution streak">
+  <img src="./metrics.svg" width="100%" alt="GitHub activity, repository statistics, and most-used programming languages">
 </div>
+
+<sub>Stats and language breakdown are generated automatically every day by GitHub Actions.</sub>
 
 ---
 
