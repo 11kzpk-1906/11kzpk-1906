@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  I learn by building, experiment with ideas, and turn curiosity into projects.
+  I learn by building, experiment with ideas, and turn curiosity into useful software.
 </p>
 
 <p align="center">
@@ -25,19 +25,25 @@
 
 ## 🧑‍💻 About Me
 
-I'm a student developer interested in **artificial intelligence, software engineering, and building useful applications**.
+I'm a student developer interested in **AI, software engineering, developer tools, and thoughtful user experiences**.
 
-I enjoy exploring how systems work, designing clean interfaces, solving problems, and learning through hands-on projects. I'm still growing my skills, and every project is a chance to get better.
+I enjoy taking ideas from concept to working projects, exploring how systems fit together, and improving my code through testing and iteration. I'm especially interested in building practical, accessible tools that other people can use.
 
-## 🚀 What I'm Working On
+## 🚀 Featured Projects
 
-| Project | What it is |
+| Project | What it does |
 |---|---|
-| 🤖 **ForgeAI** | An AI-powered assistant focused on software engineering workflows. |
-| 🌌 **Nova AI** | A Windows-first personal AI assistant experiment. |
-| 📚 **Eduverse** | An educational software project. |
-| 🌐 **Rajmudra Enterprises** | A website for an IT infrastructure and security solutions business. |
-| 🧠 **Personal Agent** | Experiments with AI agents and helpful workflows. |
+| 🛠️ **[DevAid](https://github.com/11kzpk-1906/DevAid)** | A free, open-source, local-first toolkit that helps developers inspect project health and work more confidently. |
+| 🤖 **[ForgeAI](https://github.com/11kzpk-1906/forge-ai)** | An AI assistant focused on software engineering workflows and developer productivity. |
+| 🌐 **[Personal Portfolio](https://github.com/11kzpk-1906/Personal-Portfolio)** | My personal space on the web, built to showcase projects and development work. |
+| 🧮 **[Calculator](https://github.com/11kzpk-1906/calculator)** | A web calculator project with a focus on useful functionality and a clean experience. |
+| 🏢 **[Rajmudra Enterprises](https://github.com/11kzpk-1906/Rajmudra-Enterprises)** | A website for an IT infrastructure, networking, and security solutions business. |
+
+<p align="center">
+  <a href="https://github.com/11kzpk-1906?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-9B87F5?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories">
+  </a>
+</p>
 
 ## 🧰 Tech Stack
 
@@ -53,13 +59,14 @@ I enjoy exploring how systems work, designing clean interfaces, solving problems
 <br>
 ![React](https://img.shields.io/badge/React-6F5AA8?style=for-the-badge&logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-6F5AA8?style=for-the-badge&logo=fastapi&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-6F5AA8?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-6F5AA8?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6F5AA8?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-6F5AA8?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 📈 GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=11kzpk-1906&show_icons=true&hide_border=true&rank_icon=github&bg_color=171126&title_color=DCCBFF&text_color=EDE5F8&icon_color=C4B5FD" alt="Arnav's GitHub statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=11kzpk-1906&show_icons=true&hide_border=true&rank_icon=github&bg_color=171126&title_color=DCCBFF&text_color=EDE5F8&icon_color=C4B5FD" alt="GitHub statistics">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11kzpk-1906&layout=compact&hide_border=true&langs_count=8&bg_color=171126&title_color=DCCBFF&text_color=EDE5F8" alt="Most used programming languages">
 </p>
 
@@ -67,22 +74,17 @@ I enjoy exploring how systems work, designing clean interfaces, solving problems
   <img src="https://github-readme-streak-stats.herokuapp.com?user=11kzpk-1906&hide_border=true&background=171126&ring=C4B5FD&fire=DCCBFF&currStreakLabel=DCCBFF&sideLabels=EDE5F8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA0BC" alt="GitHub contribution streak">
 </p>
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Strengthening programming and computer science fundamentals
-- Building AI-powered applications and agent workflows
-- Developing full-stack projects with modern tools
-- Improving UI design, accessibility, and responsive layouts
+- Python, software engineering, and computer science fundamentals
+- AI-powered applications and agent workflows
+- Full-stack development and API design
+- CLI tooling, automation, testing, and project quality
+- UI design, accessibility, and responsive experiences
 
 ## 💡 My Approach
 
 > Build it. Break it. Understand it. Build it better.
-
-<p align="center">
-  <a href="https://github.com/11kzpk-1906?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-9B87F5?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories">
-  </a>
-</p>
 
 <p align="center">
   <sub>Thanks for stopping by! Have a great day. ✨</sub>
