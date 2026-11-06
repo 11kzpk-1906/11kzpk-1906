@@ -1,91 +1,104 @@
-<!-- Arnav Pawar | GitHub profile README -->
+<!--
+  Arnav Pawar · GitHub Profile
+  Minimal / lavender / developer-focused
+-->
 
-<p align="center">
-  <img src="./assets/lavender-banner.svg" alt="Arnav Pawar — Student Developer, Software Engineering and AI" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">Hey, I'm Arnav Pawar 👋</h1>
-<p align="center">
-  <strong>Student Developer · Aspiring Software Engineer · AI Enthusiast</strong>
-</p>
+  <img src="./assets/lavender-banner.svg" width="100%" alt="Arnav Pawar — Software, AI and developer tools">
 
-<p align="center">
-  I learn by building, experiment with ideas, and turn curiosity into useful software.
-</p>
+  <h1>Arnav Pawar</h1>
+  <p><b>Student Developer</b> &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; AI</p>
 
-<p align="center">
-  <a href="https://github.com/11kzpk-1906">
-    <img src="https://img.shields.io/badge/GitHub-11kzpk--1906-242038?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Engineering-9B87F5?style=for-the-badge" alt="AI and software engineering">
-  <img src="https://img.shields.io/badge/Theme-Lavender-CCB8FF?style=for-the-badge" alt="Lavender theme">
-</p>
+  <p>
+    <a href="https://github.com/11kzpk-1906?tab=repositories">Projects</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/11kzpk-1906">GitHub</a>
+  </p>
+
+  <img src="https://img.shields.io/badge/BUILDING-DevAid-8B78C6?style=flat-square" alt="Building DevAid">
+  <img src="https://img.shields.io/badge/EXPLORING-AI%20%26%20Systems-AE9BDB?style=flat-square" alt="Exploring AI and systems">
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-Minded-6F5AA8?style=flat-square" alt="Open source minded">
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+### 01 / A little about me
 
-I'm a student developer interested in **AI, software engineering, developer tools, and thoughtful user experiences**.
+I'm a student developer who likes understanding how things work — then building them.
 
-I enjoy taking ideas from concept to working projects, exploring how systems fit together, and improving my code through testing and iteration. I'm especially interested in building practical, accessible tools that other people can use.
+My interests sit around **software engineering, AI, developer experience, and clean interfaces**. I enjoy working across the stack, experimenting with ideas, and making projects more reliable through testing and iteration.
 
-## 🚀 Featured Projects
+```python
+profile = {
+    "name": "Arnav Pawar",
+    "role": "Student Developer",
+    "interests": ["Software Engineering", "AI", "Developer Tools"],
+    "currently_building": "DevAid",
+    "mindset": "Learn → Build → Improve"
+}
+```
 
-| Project | What it does |
-|---|---|
-| 🛠️ **[DevAid](https://github.com/11kzpk-1906/DevAid)** | A free, open-source, local-first toolkit that helps developers inspect project health and work more confidently. |
-| 🤖 **[ForgeAI](https://github.com/11kzpk-1906/forge-ai)** | An AI assistant focused on software engineering workflows and developer productivity. |
-| 🌐 **[Personal Portfolio](https://github.com/11kzpk-1906/Personal-Portfolio)** | My personal space on the web, built to showcase projects and development work. |
-| 🧮 **[Calculator](https://github.com/11kzpk-1906/calculator)** | A web calculator project with a focus on useful functionality and a clean experience. |
-| 🏢 **[Rajmudra Enterprises](https://github.com/11kzpk-1906/Rajmudra-Enterprises)** | A website for an IT infrastructure, networking, and security solutions business. |
+### 02 / Selected work
 
-<p align="center">
-  <a href="https://github.com/11kzpk-1906?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-9B87F5?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories">
-  </a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://github.com/11kzpk-1906/DevAid">DevAid</a></h3>
+      <p>A free, open-source, local-first developer toolkit for project checks, diagnostics, and everyday workflows.</p>
+      <sub>Python · Typer · Rich · CLI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✳️ <a href="https://github.com/11kzpk-1906/forge-ai">ForgeAI</a></h3>
+      <p>An AI-powered assistant designed around software engineering tasks and developer productivity.</p>
+      <sub>React · TypeScript · FastAPI · AI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/11kzpk-1906/Personal-Portfolio">Personal Portfolio</a></h3>
+      <p>A personal web presence for presenting my work, experiments, and development journey.</p>
+      <sub>Web · UI · Responsive Design</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 <a href="https://github.com/11kzpk-1906/Rajmudra-Enterprises">Rajmudra Enterprises</a></h3>
+      <p>A business website for IT infrastructure, networking, and security solutions.</p>
+      <sub>Web Development · UX · Deployment</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Also building and maintaining: <a href="https://github.com/11kzpk-1906/calculator">Calculator</a> · <a href="https://github.com/11kzpk-1906?tab=repositories">More repositories ↗</a></sub>
+
+### 03 / Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,fastapi,git,github,vscode&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS, React, FastAPI, Git, GitHub and VS Code">
 </p>
 
-## 🧰 Tech Stack
+### 04 / What I'm exploring
 
-**Languages**
-<br>
-![Python](https://img.shields.io/badge/Python-9B87F5?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9B87F5?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-9B87F5?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-9B87F5?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-9B87F5?style=for-the-badge&logo=css3&logoColor=white)
+- Software design, clean architecture, and computer science fundamentals
+- AI applications, agents, and practical automation
+- Full-stack development, APIs, and backend systems
+- CLI tooling, testing, CI, and developer experience
+- Accessible interfaces and responsive design
 
-**Frameworks & Tools**
-<br>
-![React](https://img.shields.io/badge/React-6F5AA8?style=for-the-badge&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-6F5AA8?style=for-the-badge&logo=fastapi&logoColor=white)
-![Typer](https://img.shields.io/badge/Typer-6F5AA8?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6F5AA8?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-6F5AA8?style=for-the-badge&logo=githubactions&logoColor=white)
+### 05 / GitHub activity
 
-## 📈 GitHub Overview
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=11kzpk-1906&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D0B12&title_color=CDBBFA&text_color=E8E1F2&icon_color=A994E8" alt="GitHub stats">
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11kzpk-1906&layout=compact&hide_border=true&langs_count=6&bg_color=0D0B12&title_color=CDBBFA&text_color=E8E1F2" alt="Most used languages">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=11kzpk-1906&hide_border=true&background=0D0B12&ring=A994E8&fire=CDBBFA&currStreakLabel=CDBBFA&sideLabels=E8E1F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=958BA6" alt="GitHub contribution streak">
+</div>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=11kzpk-1906&show_icons=true&hide_border=true&rank_icon=github&bg_color=171126&title_color=DCCBFF&text_color=EDE5F8&icon_color=C4B5FD" alt="GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11kzpk-1906&layout=compact&hide_border=true&langs_count=8&bg_color=171126&title_color=DCCBFF&text_color=EDE5F8" alt="Most used programming languages">
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=11kzpk-1906&hide_border=true&background=171126&ring=C4B5FD&fire=DCCBFF&currStreakLabel=DCCBFF&sideLabels=EDE5F8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA0BC" alt="GitHub contribution streak">
-</p>
-
-## 🌱 Currently Exploring
-
-- Python, software engineering, and computer science fundamentals
-- AI-powered applications and agent workflows
-- Full-stack development and API design
-- CLI tooling, automation, testing, and project quality
-- UI design, accessibility, and responsive experiences
-
-## 💡 My Approach
-
-> Build it. Break it. Understand it. Build it better.
-
-<p align="center">
-  <sub>Thanks for stopping by! Have a great day. ✨</sub>
-</p>
+<div align="center">
+  <i>Curiosity is the starting point. Building is how I learn.</i>
+  <br><br>
+  <sub>Thanks for visiting · <a href="https://github.com/11kzpk-1906?tab=repositories">Explore my work</a></sub>
+</div>
