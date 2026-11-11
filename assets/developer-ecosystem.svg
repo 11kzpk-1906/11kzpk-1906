@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="t d">
+<title id="t">Arnav's developer ecosystem</title><desc id="d">A visual map connecting software engineering, AI, developer tools, and full-stack development around a central build, test, improve cycle.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#100e18"/><stop offset=".55" stop-color="#1c1728"/><stop offset="1" stop-color="#28203a"/></linearGradient>
+ <linearGradient id="line" x2="1"><stop stop-color="#8d76bd" stop-opacity=".15"/><stop offset=".5" stop-color="#c9b2f4" stop-opacity=".85"/><stop offset="1" stop-color="#8d76bd" stop-opacity=".15"/></linearGradient>
+ <linearGradient id="core" x2="1" y2="1"><stop stop-color="#d8c5ff"/><stop offset="1" stop-color="#9272c7"/></linearGradient>
+ <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#c9b2f4" opacity=".18"/></pattern>
+ <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="520" rx="26" fill="url(#bg)"/><rect width="1200" height="520" rx="26" fill="url(#dots)"/>
+<circle cx="600" cy="260" r="170" fill="#9e80d4" opacity=".08" filter="url(#soft)"/>
+<g fill="none" stroke="url(#line)" stroke-width="2">
+ <path d="M600 260L270 145M600 260L930 145M600 260L270 380M600 260L930 380"/>
+ <path d="M270 145L930 145M270 380L930 380" stroke-dasharray="3 9" opacity=".45"/>
+ <circle cx="600" cy="260" r="150" stroke="#bda5e8" stroke-opacity=".24" stroke-dasharray="5 11"/>
+ <circle cx="600" cy="260" r="188" stroke="#bda5e8" stroke-opacity=".13"/>
+</g>
+<g fill="#d9c7fa"><circle cx="600" cy="110" r="3"/><circle cx="600" cy="410" r="3"/><circle cx="412" cy="260" r="3"/><circle cx="788" cy="260" r="3"/></g>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="58" y="58" fill="#c9b2f4" font-size="14" letter-spacing="4">THE DEVELOPER ECOSYSTEM</text>
+ <text x="1140" y="58" fill="#8f829f" font-size="12" text-anchor="end" letter-spacing="2">LEARN / BUILD / ITERATE</text>
+ <rect x="445" y="171" width="310" height="178" rx="22" fill="#171321" stroke="#9f83d1" stroke-opacity=".7"/>
+ <rect x="457" y="183" width="286" height="154" rx="15" fill="none" stroke="#d8c5ff" stroke-opacity=".13"/>
+ <text x="600" y="220" text-anchor="middle" fill="#a98bd9" font-size="12" letter-spacing="3">CORE PRINCIPLE</text>
+ <text x="600" y="267" text-anchor="middle" fill="url(#core)" font-size="35" font-weight="700">BUILD.</text>
+ <text x="600" y="300" text-anchor="middle" fill="#eee7f8" font-size="17">Test. Improve. Repeat.</text>
+ <text x="600" y="322" text-anchor="middle" fill="#93869f" font-size="10" letter-spacing="2">ARNAV PAWAR</text>
+ <g>
+  <rect x="92" y="98" width="300" height="94" rx="14" fill="#211b2e" stroke="#8067ad" stroke-opacity=".7"/>
+  <text x="116" y="132" fill="#d9c7fa" font-size="13" letter-spacing="2">01 / ENGINEERING</text><text x="116" y="161" fill="#f2edf9" font-size="21" font-weight="600">Software systems</text>
+  <rect x="808" y="98" width="300" height="94" rx="14" fill="#211b2e" stroke="#8067ad" stroke-opacity=".7"/>
+  <text x="832" y="132" fill="#d9c7fa" font-size="13" letter-spacing="2">02 / INTELLIGENCE</text><text x="832" y="161" fill="#f2edf9" font-size="21" font-weight="600">AI &amp; automation</text>
+  <rect x="92" y="333" width="300" height="94" rx="14" fill="#211b2e" stroke="#8067ad" stroke-opacity=".7"/>
+  <text x="116" y="367" fill="#d9c7fa" font-size="13" letter-spacing="2">03 / TOOLING</text><text x="116" y="396" fill="#f2edf9" font-size="21" font-weight="600">Developer experience</text>
+  <rect x="808" y="333" width="300" height="94" rx="14" fill="#211b2e" stroke="#8067ad" stroke-opacity=".7"/>
+  <text x="832" y="367" fill="#d9c7fa" font-size="13" letter-spacing="2">04 / PRODUCT</text><text x="832" y="396" fill="#f2edf9" font-size="21" font-weight="600">Full-stack creation</text>
+ </g>
+ <g fill="#b7a0dc" font-family="monospace" font-size="11">
+  <text x="600" y="477" text-anchor="middle" letter-spacing="3">PYTHON  ·  TYPESCRIPT  ·  REACT  ·  FASTAPI  ·  GIT</text>
+ </g>
+</g>
+</svg>
