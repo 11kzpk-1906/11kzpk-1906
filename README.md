@@ -96,13 +96,19 @@ A business website for IT infrastructure, networking, and electronic security so
 | Developer tooling | CLI design, diagnostics, CI, security |
 | Frontend | Responsive layouts, accessibility, thoughtful UI |
 
-## 05 / GitHub overview
+## 05 / My developer ecosystem
 
 <div align="center">
 
-<img src="./metrics.svg" width="100%" alt="Automatically generated GitHub activity and language metrics" />
+<img src="./assets/developer-ecosystem.svg" width="100%" alt="Visual map of my interests: software engineering, AI and automation, developer experience, and full-stack creation, connected by a build-test-improve mindset." />
 
-<sub>Profile metrics are refreshed automatically by GitHub Actions.</sub>
+</div>
+
+<div align="center">
+
+| THINK | BUILD | REFINE |
+|:---:|:---:|:---:|
+| Understand the problem | Turn ideas into working software | Test, learn, and iterate |
 
 </div>
 
