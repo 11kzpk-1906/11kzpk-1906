@@ -1,102 +1,119 @@
-<!--
-  Arnav Pawar · GitHub Profile
-  Minimal / lavender / developer-focused
--->
-
 <div align="center">
 
-  <img src="./assets/lavender-banner.svg" width="100%" alt="Arnav Pawar — Software, AI and developer tools">
+<img src="./assets/lavender-banner.svg" width="100%" alt="Arnav Pawar — Software Engineering and AI" />
 
-  <h1>Arnav Pawar</h1>
-  <p><b>Student Developer</b> &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; AI</p>
+<br/>
 
-  <p>
-    <a href="https://github.com/11kzpk-1906?tab=repositories">Projects</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/11kzpk-1906">GitHub</a>
-  </p>
+[![GitHub](https://img.shields.io/badge/GitHub-11kzpk--1906-18131f?style=for-the-badge&logo=github&logoColor=d8c0ff)](https://github.com/11kzpk-1906)
+[![DevAid](https://img.shields.io/badge/Building-DevAid-8b70c5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/11kzpk-1906/DevAid)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Always-6d568e?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/11kzpk-1906?tab=repositories)
 
-  <img src="https://img.shields.io/badge/BUILDING-DevAid-8B78C6?style=flat-square" alt="Building DevAid">
-  <img src="https://img.shields.io/badge/EXPLORING-AI%20%26%20Systems-AE9BDB?style=flat-square" alt="Exploring AI and systems">
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-Minded-6F5AA8?style=flat-square" alt="Open source minded">
+### Student developer · Software engineering · Artificial intelligence
+
+*I learn by building things, breaking them, and making them better.*
 
 </div>
 
 ---
 
-### 01 / A little about me
+## 01 / About
 
-I'm a student developer who likes understanding how things work — then building them.
+I'm Arnav, a student developer interested in how software works under the hood — from clean interfaces and useful command-line tools to APIs, automation, and AI-powered applications.
 
-My interests sit around **software engineering, AI, developer experience, and clean interfaces**. I enjoy working across the stack, experimenting with ideas, and making projects more reliable through testing and iteration.
+- 🔭 **Currently building:** [DevAid](https://github.com/11kzpk-1906/DevAid) — a free, local-first toolkit for developers.
+- 🧠 **Exploring:** AI applications, software architecture, backend engineering, and developer experience.
+- 🧪 **My approach:** Understand the problem → build a solution → test it → improve it.
+- 🌱 **Long-term goal:** Become a software engineer working on useful, thoughtful technology.
 
-```python
-profile = {
-    "name": "Arnav Pawar",
-    "role": "Student Developer",
-    "interests": ["Software Engineering", "AI", "Developer Tools"],
-    "currently_building": "DevAid",
-    "mindset": "Learn → Build → Improve"
-}
-```
-
-### 02 / Selected work
+## 02 / Featured projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/11kzpk-1906/DevAid">DevAid</a></h3>
-      <p>A free, open-source, local-first developer toolkit for project checks, diagnostics, and everyday workflows.</p>
-      <sub>Python · Typer · Rich · CLI</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✳️ <a href="https://github.com/11kzpk-1906/forge-ai">ForgeAI</a></h3>
-      <p>An AI-powered assistant designed around software engineering tasks and developer productivity.</p>
-      <sub>React · TypeScript · FastAPI · AI</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/11kzpk-1906/Personal-Portfolio">Personal Portfolio</a></h3>
-      <p>A personal web presence for presenting my work, experiments, and development journey.</p>
-      <sub>Web · UI · Responsive Design</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏢 <a href="https://github.com/11kzpk-1906/Rajmudra-Enterprises">Rajmudra Enterprises</a></h3>
-      <p>A business website for IT infrastructure, networking, and security solutions.</p>
-      <sub>Web Development · UX · Deployment</sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 [DevAid](https://github.com/11kzpk-1906/DevAid)
+
+A free, open-source, local-first developer toolkit. Project diagnostics, security checks, reports, and practical workflow utilities — designed to run locally.
+
+**Python · Typer · Rich · CLI**
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ [ForgeAI](https://github.com/11kzpk-1906/forge-ai)
+
+An AI assistant focused on software development, structured problem-solving, and a better developer workflow.
+
+**React · TypeScript · FastAPI · AI**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Personal Portfolio](https://github.com/11kzpk-1906/Personal-Portfolio)
+
+A web portfolio for presenting projects, experiments, and the work behind them.
+
+**Web · UI · Responsive design**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 [Rajmudra Enterprises](https://github.com/11kzpk-1906/Rajmudra-Enterprises)
+
+A business website for IT infrastructure, networking, and electronic security solutions.
+
+**Web development · UX · Deployment**
+
+</td>
+</tr>
 </table>
 
-<sub>Also building and maintaining: <a href="https://github.com/11kzpk-1906/calculator">Calculator</a> · <a href="https://github.com/11kzpk-1906?tab=repositories">More repositories ↗</a></sub>
+<sub>More experiments: [Calculator](https://github.com/11kzpk-1906/calculator) · [All repositories →](https://github.com/11kzpk-1906?tab=repositories)</sub>
 
-### 03 / Tools I use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,fastapi,git,github,vscode&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS, React, FastAPI, Git, GitHub and VS Code">
-</p>
-
-### 04 / What I'm exploring
-
-- Software design, clean architecture, and computer science fundamentals
-- AI applications, agents, and practical automation
-- Full-stack development, APIs, and backend systems
-- CLI tooling, testing, CI, and developer experience
-- Accessible interfaces and responsive design
-
-### 05 / GitHub activity
+## 03 / Tech stack
 
 <div align="center">
-  <img src="./metrics.svg" width="100%" alt="GitHub activity, repository statistics, and most-used programming languages">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML and CSS" />
+
+**Frameworks & tools**
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,git,github,vscode,linux&theme=dark" alt="React, FastAPI, Git, GitHub, VS Code and Linux" />
+
 </div>
 
-<sub>Stats and language breakdown are generated automatically every day by GitHub Actions.</sub>
+## 04 / What I'm learning
+
+| Area | Current interests |
+|:--|:--|
+| Software engineering | Clean architecture, data structures, testing |
+| AI & automation | AI applications, agents, practical automation |
+| Backend | APIs, Python, databases, system design |
+| Developer tooling | CLI design, diagnostics, CI, security |
+| Frontend | Responsive layouts, accessibility, thoughtful UI |
+
+## 05 / GitHub overview
+
+<div align="center">
+
+<img src="./metrics.svg" width="100%" alt="Automatically generated GitHub activity and language metrics" />
+
+<sub>Profile metrics are refreshed automatically by GitHub Actions.</sub>
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Curiosity is the starting point. Building is how I learn.</i>
-  <br><br>
-  <sub>Thanks for visiting · <a href="https://github.com/11kzpk-1906?tab=repositories">Explore my work</a></sub>
+
+### Thanks for stopping by.
+
+*Stay curious. Keep shipping. Make useful things.*
+
+[Explore my repositories](https://github.com/11kzpk-1906?tab=repositories) · [Visit my profile](https://github.com/11kzpk-1906)
+
 </div>
