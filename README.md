@@ -1,48 +1,48 @@
 <div align="center">
 
-<img src="./assets/lavender-banner.svg" width="100%" alt="Arnav Pawar — Software Engineering and AI" />
+<img src="./assets/lavender-banner.svg" width="100%" alt="Arnav Pawar — Student Developer" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-11kzpk--1906-18131f?style=for-the-badge&logo=github&logoColor=d8c0ff)](https://github.com/11kzpk-1906)
-[![DevAid](https://img.shields.io/badge/Building-DevAid-8b70c5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/11kzpk-1906/DevAid)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Always-6d568e?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/11kzpk-1906?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-11kzpk--1906-211a2b?style=for-the-badge&logo=github&logoColor=d9c7fa)](https://github.com/11kzpk-1906)
+[![Building DevAid](https://img.shields.io/badge/Building-DevAid-7660a6?style=for-the-badge&logo=python&logoColor=white)](https://github.com/11kzpk-1906/DevAid)
+[![Open Source](https://img.shields.io/badge/Into-Open%20Source-51436f?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/11kzpk-1906?tab=repositories)
 
-### Student developer · Software engineering · Artificial intelligence
+### Hey, I'm Arnav — a student who loves building with code.
 
-*I learn by building things, breaking them, and making them better.*
+I’m exploring software engineering and AI by turning curious ideas into useful projects.
 
 </div>
 
 ---
 
-## 01 / About
+## A little about me
 
-I'm Arnav, a student developer interested in how software works under the hood — from clean interfaces and useful command-line tools to APIs, automation, and AI-powered applications.
+I enjoy understanding how things work, solving practical problems, and improving a project one thoughtful step at a time. Most of my learning happens by building, testing, asking questions, and trying again.
 
-- 🔭 **Currently building:** [DevAid](https://github.com/11kzpk-1906/DevAid) — a free, local-first toolkit for developers.
-- 🧠 **Exploring:** AI applications, software architecture, backend engineering, and developer experience.
-- 🧪 **My approach:** Understand the problem → build a solution → test it → improve it.
-- 🌱 **Long-term goal:** Become a software engineer working on useful, thoughtful technology.
+- **Working on:** [DevAid](https://github.com/11kzpk-1906/DevAid), a free, local-first toolkit for developers.
+- **Interested in:** software engineering, AI, backend systems, and developer tools.
+- **Learning through:** hands-on projects, experimentation, and open-source development.
+- **My mindset:** stay curious, keep things useful, and never stop improving.
 
-## 02 / Featured projects
+## Projects I'm proud to work on
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧰 [DevAid](https://github.com/11kzpk-1906/DevAid)
+### [DevAid](https://github.com/11kzpk-1906/DevAid)
 
-A free, open-source, local-first developer toolkit. Project diagnostics, security checks, reports, and practical workflow utilities — designed to run locally.
+A free, open-source toolkit that helps developers understand, inspect, and improve their projects — with a local-first approach.
 
 **Python · Typer · Rich · CLI**
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ [ForgeAI](https://github.com/11kzpk-1906/forge-ai)
+### [ForgeAI](https://github.com/11kzpk-1906/forge-ai)
 
-An AI assistant focused on software development, structured problem-solving, and a better developer workflow.
+An AI assistant project exploring structured problem-solving and more helpful developer workflows.
 
 **React · TypeScript · FastAPI · AI**
 
@@ -51,18 +51,18 @@ An AI assistant focused on software development, structured problem-solving, and
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Personal Portfolio](https://github.com/11kzpk-1906/Personal-Portfolio)
+### [Personal Portfolio](https://github.com/11kzpk-1906/Personal-Portfolio)
 
-A web portfolio for presenting projects, experiments, and the work behind them.
+A place to share my projects, experiments, and progress as I grow as a developer.
 
 **Web · UI · Responsive design**
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 [Rajmudra Enterprises](https://github.com/11kzpk-1906/Rajmudra-Enterprises)
+### [Rajmudra Enterprises](https://github.com/11kzpk-1906/Rajmudra-Enterprises)
 
-A business website for IT infrastructure, networking, and electronic security solutions.
+A business website project for IT infrastructure, networking, and electronic security solutions.
 
 **Web development · UX · Deployment**
 
@@ -70,9 +70,9 @@ A business website for IT infrastructure, networking, and electronic security so
 </tr>
 </table>
 
-<sub>More experiments: [Calculator](https://github.com/11kzpk-1906/calculator) · [All repositories →](https://github.com/11kzpk-1906?tab=repositories)</sub>
+<sub>Also exploring: [Calculator](https://github.com/11kzpk-1906/calculator) · [Browse all repositories →](https://github.com/11kzpk-1906?tab=repositories)</sub>
 
-## 03 / Tech stack
+## Tools I work with
 
 <div align="center">
 
@@ -80,35 +80,29 @@ A business website for IT infrastructure, networking, and electronic security so
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML and CSS" />
 
-**Frameworks & tools**
+**Frameworks and tools**
 
 <img src="https://skillicons.dev/icons?i=react,fastapi,git,github,vscode,linux&theme=dark" alt="React, FastAPI, Git, GitHub, VS Code and Linux" />
 
 </div>
 
-## 04 / What I'm learning
+## What I'm exploring
 
-| Area | Current interests |
+| Area | Learning focus |
 |:--|:--|
-| Software engineering | Clean architecture, data structures, testing |
-| AI & automation | AI applications, agents, practical automation |
-| Backend | APIs, Python, databases, system design |
-| Developer tooling | CLI design, diagnostics, CI, security |
-| Frontend | Responsive layouts, accessibility, thoughtful UI |
+| Software engineering | Clean code, architecture, data structures, and testing |
+| Artificial intelligence | Practical AI applications and automation |
+| Backend development | APIs, Python, databases, and system design |
+| Developer experience | CLI tools, diagnostics, security, and CI |
+| Frontend development | Responsive interfaces and accessibility |
 
-## 05 / My developer ecosystem
-
-<div align="center">
-
-<img src="./assets/developer-ecosystem.svg" width="100%" alt="Visual map of my interests: software engineering, AI and automation, developer experience, and full-stack creation, connected by a build-test-improve mindset." />
-
-</div>
+## How I like to build
 
 <div align="center">
 
-| THINK | BUILD | REFINE |
-|:---:|:---:|:---:|
-| Understand the problem | Turn ideas into working software | Test, learn, and iterate |
+<img src="./assets/developer-ecosystem.svg" width="100%" alt="A visual overview of the ideas and areas that inspire my software projects." />
+
+**Curiosity → Ideas → Building → Feedback → Better software**
 
 </div>
 
@@ -116,10 +110,12 @@ A business website for IT infrastructure, networking, and electronic security so
 
 <div align="center">
 
-### Thanks for stopping by.
+### Thanks for visiting!
 
-*Stay curious. Keep shipping. Make useful things.*
+I'm still learning, experimenting, and building — so there's always something new around here.
 
-[Explore my repositories](https://github.com/11kzpk-1906?tab=repositories) · [Visit my profile](https://github.com/11kzpk-1906)
+**Have a look around, and feel free to say hello.**
+
+[Explore my repositories](https://github.com/11kzpk-1906?tab=repositories) · [Connect on GitHub](https://github.com/11kzpk-1906)
 
 </div>
